@@ -1,6 +1,4 @@
 # Hi there! I'm Nil 👋 
-> Your friendly neighborhood **Programmer**.
-
 ---
 
 ### 🚀 About Me
